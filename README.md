@@ -25,3 +25,6 @@ _Note: Replace `<environment-name>` with your actual environment name_
 ```
 pip install -r .\src\utils\requirements.txt
 ```
+
+# Points to remember
+- If you modify your application's debug mode, you need to restart the application to reflect the changes.
